@@ -7,4 +7,5 @@ def compare(s1,s2):
   return 0
 s1 = input()
 s2 = input()
-print(compare(s1,s2))
+ans=compare(s1,s2)
+print(ans)
